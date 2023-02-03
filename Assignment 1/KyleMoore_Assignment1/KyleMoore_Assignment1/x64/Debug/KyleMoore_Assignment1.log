@@ -1,0 +1,4 @@
+﻿  KyleMoore_Assignment1.cpp
+C:\Users\oneup\source\repos\KyleMoore_Assignment1\KyleMoore_Assignment1\KyleMoore_Assignment1.cpp(30,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\oneup\source\repos\KyleMoore_Assignment1\KyleMoore_Assignment1\KyleMoore_Assignment1.cpp(63,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  KyleMoore_Assignment1.vcxproj -> C:\Users\oneup\source\repos\KyleMoore_Assignment1\x64\Debug\KyleMoore_Assignment1.exe

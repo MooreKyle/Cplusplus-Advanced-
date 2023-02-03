@@ -1,0 +1,3 @@
+﻿  KyleMoore_Assignment3.cpp
+C:\Users\oneup\source\repos\KyleMoore_Assignment3\KyleMoore_Assignment3\KyleMoore_Assignment3.cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KyleMoore_Assignment3.vcxproj -> C:\Users\oneup\source\repos\KyleMoore_Assignment3\x64\Debug\KyleMoore_Assignment3.exe
